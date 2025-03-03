@@ -1,0 +1,21 @@
+{
+    "workspace.library": [
+        "/home/ackxle/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/home/ackxle/nvim/share/nvim/runtime/lua",
+        "/home/ackxle/.local/share/nvim/lazy/nvim-lspconfig/lua",
+        "/home/ackxle/.local/share/nvim/lazy/Comment.nvim/lua",
+        "/home/ackxle/.local/share/nvim/lazy/LuaSnip/lua",
+        "/home/ackxle/.local/share/nvim/lazy/mason.nvim/lua",
+        "/home/ackxle/.local/share/nvim/lazy/neodev.nvim/lua",
+        "/home/ackxle/.local/share/nvim/lazy/lazy.nvim/lua",
+        "/home/ackxle/.local/share/nvim/lazy/cmp_luasnip/lua",
+        "/home/ackxle/.local/share/nvim/lazy/lualine.nvim/lua",
+        "/home/ackxle/.local/share/nvim/lazy/cmp-nvim-lsp/lua",
+        "/home/ackxle/.local/share/nvim/lazy/nvim-cmp/lua",
+        "/home/ackxle/.local/share/nvim/lazy/catppuccin/lua",
+        "/home/ackxle/.local/share/nvim/lazy/mason-lspconfig.nvim/lua",
+        "/home/ackxle/.local/share/nvim/lazy/nvim-web-devicons/lua",
+        "/home/ackxle/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
