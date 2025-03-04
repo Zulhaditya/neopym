@@ -22,7 +22,7 @@ This repository contains my personal Neovim configuration for Python Development
 2.  **Clone the Repository:**
 
     ```bash
-    git clone [YOUR_REPOSITORY_URL] ~/.config/nvim
+    git clone https://github.com/Zulhaditya/neopym ~/.config/nvim
     ```
 
 3.  **Plugin Installation:**
