@@ -1,6 +1,10 @@
 # Documentation for Neopym
 
-This repository contains my personal Neovim configuration for Python Development.
+This repository contains my personal Neovim configuration for C, Python, Golang and Typescript Development.
+
+## Preview
+![dashboard](/screenshot/setup-dashboard.png)
+![telescope](/screenshot/telescope.png)
 
 ## Features
 
@@ -8,7 +12,7 @@ This repository contains my personal Neovim configuration for Python Development
 * Optimized configuration for enhanced productivity.
 * Fully support for Python.
 * Carefully selected plugins.
-* A comfortable theme for extended use (One Dark).
+* A comfortable theme for extended use (Vague or One Dark).
 * LSP (Language Server Protocol) configuration for an improved development experience.
 
 ## Installation
@@ -71,9 +75,11 @@ This repository contains my personal Neovim configuration for Python Development
 * `simrat39/symbols-outline.nvim`: Symbols outline.
 * `diepm/vim-rest-console`: API testing.
 
-## Theme
+## Theme & Fonts
 
+* Vague
 * One Dark
+* Iosevkaterm Nerd Font
 
 ## Usage
 
