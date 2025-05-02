@@ -3,6 +3,7 @@
 This repository contains my personal Neovim configuration for C, Python, Golang and Typescript Development.
 
 ## Preview
+
 ![dashboard](/screenshot/setup-dashboard.png)
 ![telescope](/screenshot/telescope.png)
 
